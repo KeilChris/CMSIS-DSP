@@ -20,6 +20,7 @@ This repository contains the CMSIS-DSP library and several other projects:
 
 You don't need any of the other projects to build and use CMSIS-DSP library. Building the other projects may require installation of other libraries (CMSIS), other tools (Arm Virtual Hardware) or CMSIS build tools.
 
+A pre-built version of the documentation is available here: [https://arm-software.github.io/CMSIS-DSP/latest/index.html](https://arm-software.github.io/CMSIS-DSP/latest/index.html)
 
 ### CMSIS-DSP Kernels
 
